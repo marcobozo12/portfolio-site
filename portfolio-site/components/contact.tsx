@@ -91,7 +91,7 @@ export default function Contact() {
 
         <div className="mt-24 pt-8 border-t border-white/10">
           <p className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} Marco. Built with Next.js and Tailwind CSS.
+            © 2026 Marco. Built with Next.js and Tailwind CSS.
           </p>
         </div>
       </div>
